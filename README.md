@@ -3,6 +3,10 @@ A cordova app that is capable of running flutter app inside
 
 Tested :heavy_check_mark: OK
 
+In ❤️ with cordova community
+
+You can clone this 📁 and start your desired application
+
 ## Platforms available
 1. Android
 2. iOS
@@ -35,8 +39,11 @@ Tested :heavy_check_mark: OK
 
 ## cordova-plugin-flutter documentation
   1. Use google translator to read in English <https://www.npmjs.com/package/cordova-plugin-flutter>
+
+## Performance improvement
+✖️ Any one interested to have a collaboration for performance improvement can mail me at [Mail](anshuman@nexsb.in)
   
-Thanks to [@waitaction](https://github.com/waitaction) for such awesome plugin.
+Thanks to ❤️ [@waitaction](https://github.com/waitaction) for such awesome plugin.
   
   
   
