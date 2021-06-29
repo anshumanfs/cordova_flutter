@@ -26,9 +26,11 @@ You can clone this 📁 and start your desired application
    `cordova add platform android`
 3. Add cordova-plugin-flutter to your project
     `cordova plugin add cordova-plugin-flutter`
-4. Thats it you can now write your flutter app inside corodova
+4. Now a `flutter_module` folder is being created inside the project directory. Never change name of the directory.
 
-5. `cordova run android` will not work here use `cordova build android` instead.
+5. When you go inside same folder you will get a flutter project structure inside that. Write your flutter codes inside the `flutter_module/lib/`.
+
+5. That's it now you can run flutter inside cordova. Use `cordova run android` will not work here use `cordova build android` instead.
 
 ## Warnings
 
