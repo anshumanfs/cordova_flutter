@@ -43,7 +43,7 @@ You can clone this 📁 and start your desired application
   1. Use google translator to read in English <https://www.npmjs.com/package/cordova-plugin-flutter>
 
 ## Performance improvement
-🧔 👧 👩‍🦱 Any one interested to have a collaboration for performance improvement can mail me at <anshuman@nexsb.in>
+🧔 👧 👩‍🦱 Any one interested to have a collaboration for performance improvement can mail me at <anshuman@upstageindia.in>
   
 Thanks to ❤️ [@waitaction](https://github.com/waitaction) for such awesome plugin.
   
